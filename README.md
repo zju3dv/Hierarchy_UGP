@@ -6,7 +6,7 @@
 
 
 ### Pipeline
-![pipeline](images/method.png)
+![pipeline](images/method_white_bkgd.png)
 
 
 ### Citation
