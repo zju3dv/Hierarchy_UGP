@@ -2,7 +2,7 @@
 
 ### [Project Page](https://sunhongyang10.github.io/Project_Page_HierarchyUGP/) | [Paper Coming Soon]
 > Hierarchy UGP: Hierarchy Unified Gaussian Primitive for Large-Scale Dynamic Scene Reconstruction 
-> [Hongyang Sun*](https://github.com/SunHongyang10), [Qinglin Yang*](https://github.com/seasideGargantua), [Jiawei Wang](https://github.com/PLUS-WAVE), [Zhen Xu](https://zhenx.me), Chen Liu, [Yida Wang](https://wangyida.github.io/), Kun Zhan, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Sida Peng](https://pengsida.net/), [Xiaowei Zhou](https://www.xzhou.me/)
+> [Hongyang Sun*](https://github.com/SunHongyang10), [Qinglin Yang*](https://github.com/seasideGargantua), [Jiawei Wang*](https://github.com/PLUS-WAVE), [Zhen Xu](https://zhenx.me), Chen Liu, [Yida Wang](https://wangyida.github.io/), Kun Zhan, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Sida Peng](https://pengsida.net/), [Xiaowei Zhou](https://www.xzhou.me/)
 
 
 ### Pipeline
